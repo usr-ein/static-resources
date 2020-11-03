@@ -20,6 +20,11 @@
 header("Content-Type: video/mp4");
 // to understand why we need the false use_include_path=false
 // see https://stackoverflow.com/a/1336419/5989906
-echo(file_get_contents(
-    "https://github.com/sam1902/static-resources/raw/master/vid/".$_GET["filename"], 
-    false));
+$content = file_get_contents(
+	"https://github.com/sam1902/static-resources/raw/master/vid/".$_GET["filename"],
+	false);
+// Don't forget the Content-Length
+// strlen counts the number of bytes in the str, funnily enough
+// whilst mb_strlen counts the number of chars
+header("Content-Length: " . strlen($content));
+echo($content);

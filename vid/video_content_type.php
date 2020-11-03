@@ -11,7 +11,7 @@
  *
  *  Just host this script anywhere and call
  *
- *  https://anywhere.com/video_content_type.php?filename=VIDEO_FILENAME_HERE
+ *  https://anywhere.com/video_content_type.php?filename=VIDEO_FILENAME_HERE.mp4
  *
  *  THIS SCRIPT IS NOT SUPER SECURE, YOU SHOULD SANITIZE $_GET BEFORE USING IT !!!
  *  Or you could also no publicly advertise that url... Your call
@@ -21,5 +21,5 @@ header("Content-Type: video/mp4");
 // to understand why we need the false use_include_path=false
 // see https://stackoverflow.com/a/1336419/5989906
 echo(file_get_contents(
-    "https://github.com/sam1902/static-resources/raw/master/vid/".$_GET["filename"].".mp4", 
+    "https://github.com/sam1902/static-resources/raw/master/vid/".$_GET["filename"], 
     false));

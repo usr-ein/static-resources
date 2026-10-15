@@ -1,0 +1,6 @@
+image: ./2026-07-28-img-8937.jpg
+alt: "A green board with a purple ESP32-S3 module in the centre, a blue screw terminal for 5 V, and white connectors along two edges labelled for the two rings, the Pi's UART, the tempo fader, the jog, the encoder, and the loop and play/cue boards."
+caption: "midi_s3_mini v2, the controller board, with its LOLIN S3 Mini, 28 July 2026."
+date: 2026-07-28
+tags: [boards]
+featured: true

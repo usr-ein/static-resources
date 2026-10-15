@@ -1,0 +1,6 @@
+image: ./2026-02-23-img-7049.jpg
+alt: "A laptop shows Arduino code defining the jog's pins and a serial monitor full of position readings; behind it the jog wheel sits next to a breadboard with a small microcontroller wired to it."
+caption: "Reading the jog wheel's encoder with an Arduino, 23 February 2026."
+date: 2026-02-23
+tags: [build]
+featured: false

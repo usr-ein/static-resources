@@ -1,0 +1,6 @@
+image: ./2026-02-13-mainboard-kicad.jpg
+alt: "Two KiCad views: a 3D render of a long green board with RCA jacks, an Ethernet socket and a Compute Module in the middle, and below it the same board in the layout editor, covered in thin unrouted connection lines."
+caption: "The main board in KiCad on 13 February 2026: its parts placed, not yet routed."
+date: 2026-02-13
+tags: [build]
+featured: false

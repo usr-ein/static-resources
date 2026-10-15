@@ -1,0 +1,6 @@
+video: ./2026-02-23-img-7047.mp4
+poster: ./2026-02-23-img-7047.jpg
+label: "A hand spins the CDJ jog wheel while an Arduino's serial monitor on a laptop counts its encoder pulses."
+caption: "Counting the jog wheel's pulses with an Arduino, 23 February 2026."
+date: 2026-02-23
+tags: [build]

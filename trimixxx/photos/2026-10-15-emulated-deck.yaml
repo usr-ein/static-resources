@@ -1,0 +1,6 @@
+image: ./2026-10-15-emulated-deck.png
+alt: "An emulated TriMixxx deck on a Mac. Above, its screen: Cadaverous by Venetian Snares at 174 BPM, with SYNC and MASTER lit. Below, the panel that stands in for the deck's controls: loop and hot cue buttons, the jog wheel, the browse encoder and the tempo fader, with PLAY/PAUSE lit green."
+caption: "An emulated deck: the Pi's screen, drawn headless, and the panel that plays its controls. The track comes off an emulated CDJ's stick, over the link, and the deck is tempo master."
+date: 2026-10-15
+tags: [screen]
+featured: false

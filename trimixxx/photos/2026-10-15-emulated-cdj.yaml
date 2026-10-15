@@ -1,0 +1,6 @@
+image: ./2026-10-15-emulated-cdj.png
+alt: "pi-qemu's window for an emulated CDJ-2000NXS: the player's own screen, showing the track Aaron2 synced to 174 BPM from its own 180, with MASTER PLAYER 4 above the waveform, inside a drawing of the NXS's top panel with SYNC, PLAY, USB, LOOP IN, LOOP OUT and QUANTIZE lit."
+caption: "The emulated CDJ-2000NXS beside it, in pi-qemu's window: its screen as its firmware draws it, its lamps as its firmware lights them. It follows the deck: MASTER PLAYER 4 is the TriMixxx deck. The CDJ's interface and firmware are AlphaTheta's (Pioneer DJ), shown here only to document the emulator."
+date: 2026-10-15
+tags: [screen]
+featured: false
